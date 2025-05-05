@@ -1,17 +1,17 @@
-#Pong Game
+# Pong Game
 
-##A simple implementation of the classic Pong game using Pygame.
-##Requirements
+## A simple implementation of the classic Pong game using Pygame.
+## Requirements
 
     Python 3.x
 
     Pygame
 
-##You can install Pygame by running:
+## You can install Pygame by running:
 
 pip install pygame
 
-##How to Run
+## How to Run
 
     Clone or download the repository.
 
@@ -21,7 +21,7 @@ pip install pygame
 
 python main.py
 
-##Controls
+## Controls
 
     W: Move left paddle up
 
