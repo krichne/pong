@@ -7,7 +7,7 @@
 
     Pygame
 
-## You can install Pygame by running:
+You can install Pygame by running:
 
 pip install pygame
 
