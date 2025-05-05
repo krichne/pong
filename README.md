@@ -1,6 +1,6 @@
 # Pong Game
 
-## A simple implementation of the classic Pong game using Pygame.
+A simple implementation of the classic Pong game using Pygame.
 ## Requirements
 
     Python 3.x
